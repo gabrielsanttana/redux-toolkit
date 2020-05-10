@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {Counter} from './components/Counter/Counter.jsx';
+import {Counter} from './components/Counter';
 
 import logo from './assets/logo.svg';
 import './App.css';
