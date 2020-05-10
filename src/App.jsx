@@ -2,7 +2,7 @@ import React from 'react';
 
 import {Counter} from './components/Counter/Counter.jsx';
 
-import logo from './logo.svg';
+import logo from './assets/logo.svg';
 import './App.css';
 
 function App() {
